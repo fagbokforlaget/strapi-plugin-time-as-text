@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/",
+      "handler": "time-as-text.index",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "strapi-plugin-time-as-text",
+  "version": "0.0.0",
+  "description": "This is the description of the plugin.",
+  "strapi": {
+    "name": "time-as-text",
+    "icon": "plug",
+    "description": "Allows you to enter time in hh:mm:ss format"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "A Strapi developer",
+    "email": "rakesh.kumar.shardiwal@forlagshuset.no",
+    "url": ""
+  },
+  "maintainers": [
+    {
+      "name": "Rakesh Kumar Shardiwal",
+      "email": "rakesh.kumar.shardiwal@forlagshuset.no",
+      "url": ""
+    }
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
